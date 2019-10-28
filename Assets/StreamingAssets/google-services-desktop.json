@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579697728850",
+    "firebase_url": "https://hacksicoob-1530327883577.firebaseio.com",
+    "project_id": "hacksicoob-1530327883577",
+    "storage_bucket": "hacksicoob-1530327883577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579697728850:android:3b285e004c533338",
+        "android_client_info": {
+          "package_name": "com.ismaelnascimento.advantagesicoob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579697728850-d4pvktlhchu8d8cvo4e6tfobag27tiss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA68GA_aeEL8fMQd7v0beg3NEUjWG2Ny3A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
